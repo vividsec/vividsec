@@ -6,6 +6,7 @@
 <p align="center">
   <a href="https://github.com/russianheavy1337">
     <img src="https://discord.c99.nl/widget/theme-4/884903196340932659.png"/>
+    <b> <i> lith w .gg/lithium </b> </i>
      </a>
   </p>
   
