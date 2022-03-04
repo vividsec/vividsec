@@ -1,5 +1,5 @@
 # Hello, I'm Russian Heavy
-.gg/lithium revolutionary discord server nuker
+.gg/lithium revolutionary discord server nuker 12B$90k1b010
 
 ![](https://komarev.com/ghpvc/?username=russianheavy1337)
 
