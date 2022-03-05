@@ -1,5 +1,5 @@
-# Hello, I'm Russian Heavy
-.gg/lithium revolutionary discord server nuker
+<h1 align="center"># Hello, I'm Russian Heavy</h1>
+<h2 align="center">.gg/lithium revolutionary discord server nuker</h2>
 
 ![](https://komarev.com/ghpvc/?username=russianheavy1337)
 
