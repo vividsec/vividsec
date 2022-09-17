@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm Russian Heavy</h1>
-<h4 align="center">.gg/arsenic revolutionary discord server nuker</h4>
+<h4 align="center">T.me/russianheavy</h4>
 
 ![](https://komarev.com/ghpvc/?username=russianheavy1337)
 
